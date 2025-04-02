@@ -1,0 +1,24 @@
+{
+  "name": "t2w11-wednesday",
+  "version": "1.0.0",
+  "description": "- View all containers: docker ps -a - View the logs: docker logs <container_id> - Stop the docker: docker stop <name> - Remove the container: docker rm <name>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APaud3l/2025-JUL-Intro-to-Docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/APaud3l/2025-JUL-Intro-to-Docker/issues"
+  },
+  "homepage": "https://github.com/APaud3l/2025-JUL-Intro-to-Docker#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
